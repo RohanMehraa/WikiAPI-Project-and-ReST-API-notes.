@@ -1,0 +1,16 @@
+ReST API:
+REST stands for REpresentational State Transfer.
+API stands for APPLICATION PROGRAM INTERFACE.
+
+Rules for REST API:
+Use http request verbs
+Use specific pattern of Routes/Endpoint URLs.
+
+HTTP verbs:
+GET, 
+POST,
+PUT (Updates the entire entry of data), 
+PATCH (Updates only the specific piece of data within one entry),
+& DELETE.
+
+
